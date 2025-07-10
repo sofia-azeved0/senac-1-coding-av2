@@ -81,4 +81,4 @@ Este projeto é de uso educacional. Sinta-se livre para modificar e reutilizar.
 
 ---
 
-Desenvolvido como parte de um projeto escolar em 14/07/2025 ✨
+Desenvolvido como parte de um projeto da Faculdade [ADS] em 14/07/2025 ✨
