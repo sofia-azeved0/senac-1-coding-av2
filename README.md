@@ -1,4 +1,3 @@
-
 # 📚 Sistema de Biblioteca em Python + SQLite
 
 Este projeto é um sistema simples de gerenciamento de uma **biblioteca**, desenvolvido em **Python** utilizando o banco de dados **SQLite**. Ele permite:
